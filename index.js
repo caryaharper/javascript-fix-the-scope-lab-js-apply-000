@@ -1,4 +1,4 @@
-var animal = 'dog'
+const animal = 'dog'
 
 function myAnimal() {
   // You should not need to modify this function
